@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Eaglenote PRO</string>
+
+    <string name="dialogfragment_about_title">About Eaglenote</string>
+    <string name="dialogfragment_about_version" translatable="false">Eaglenote PRO version</string>
+    <string name="dialogfragment_about_msg_developed_by">Developed by Marcus Jacobsson</string>
+    <string name="dialogfragment_about_msg_developed_by_email">marcus.jacobsson@ottomatech.se</string>
+    <string name="dialogfragment_about_msg_thanks">Special thanks to August Ransnäs for valuable thoughts and input.</string>
+
+    <string name="progress_bar_license_title">Checking license</string>
+    <string name="progress_bar_license_msg">Checking&#8230;</string>
+
+    <!-- License dialogs -->
+    <string name="dialogfragment_license_failed_title">License check failed</string>
+    <string name="dialogfragment_license_failed_msg">A valid license could not be found on this device.\nTo obtain a
+    license to use this application, please refer to Google Play.\n\nDo you believe that this message was sent
+    in error? Please contact the developer on marcus.jacobsson@ottomatech.se\n\nGo to Google Play?</string>
+    <string name="dialogfragment_license_failed_pos_btn">Yes</string>
+    <string name="dialogfragment_license_failed_neg_btn">Exit</string>
+
+    <string name="dialogfragment_license_retry_title">License check failed</string>
+    <string name="dialogfragment_license_retry_msg">The license check failed.</string>
+    <string name="dialogfragment_license_retry_pos_btn">Retry</string>
+    <string name="dialogfragment_license_retry_neg_btn">Exit</string>
+
+</resources>

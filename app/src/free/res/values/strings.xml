@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Eaglenote FREE</string>
+
+    <string name="dialogfragment_about_title">About Eaglenote</string>
+    <string name="dialogfragment_about_version" translatable="false">Eaglenote FREE version</string>
+    <string name="dialogfragment_about_msg_developed_by">Developed by Marcus Jacobsson</string>
+    <string name="dialogfragment_about_msg_developed_by_email">marcus.jacobsson@ottomatech.se</string>
+    <string name="dialogfragment_about_msg_thanks">Special thanks to August Ransnäs for valuable thoughts and input.</string>ng>
+    <string name="dialogfragment_about_pos_btn">Upgrade to PRO</string>
+    <string name="dialogfragment_about_url">http://www.google.se</string>
+
+
+</resources>

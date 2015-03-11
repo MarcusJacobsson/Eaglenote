@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_add_folder"
+        android:title="@string/menu_add_folder"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_share"
+        android:title="@string/menu_share"
+        app:showAsAction="never" />
+</menu>
+<!-- From: file:/C:/Users/Marcus%20Jacobsson/Dropbox/Development/Android%20Studio%20Workspace/Eaglenote%20git/app/src/main/res/menu/menu_note_details_activity.xml -->

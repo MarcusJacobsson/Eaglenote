@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+
+    <!-- Menu -->
+    <string name="menu_add_folder">Add folder</string>
+    <string name="menu_share">Share note</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+
+    <!-- ActionMode -->
+    <string name="action_mode_title_note">note selected</string>
+    <string name="action_mode_title_notes">notes selected</string>
+    <string name="share_chooser_title">Share note with</string>
+
+    <!-- DialogFragments -->
+    <string name="dialogfragment_add_folder">Name</string>
+    <string name="dialogfragment_add_folder_neg_btn">Cancel</string>
+    <string name="dialogfragment_add_folder_pos_btn">OK</string>
+    <string name="dialogfragment_add_folder_title">Add folder</string>
+    <string name="dialogfragment_add_folder_success">Folder added.</string>
+    <string name="dialogfragment_add_folder_fail">Couldn\'t add folder.</string>
+    <string name="dialogfragment_add_folder_feedback">Please enter a name.</string>
+
+    <string name="dialogfragment_remove_note">Delete note</string>
+    <string name="dialogfragment_remove_notes">Delete notes</string>
+    <string name="dialogfragment_remove_notes_msg">Are you sure you want to delete these</string>
+    <string name="dialogfragment_remove_note_msg">Are you sure you want to delete this note?</string>
+    <string name="dialogfragment_remove_notes_msg2">notes?</string>
+    <string name="dialogfragment_remove_note_pos_btn">Yes</string>
+    <string name="dialogfragment_remove_note_neg_btn">Cancel</string>
+
+    <string name="dialogfragment_move_note">Move note to folder</string>
+    <string name="dialogfragment_move_note_pos_btn">OK</string>
+    <string name="dialogfragment_move_note_neg_btn">Cancel</string>
+
+    <string name="dialogfragment_app_widget_config_title">Choose folder to display</string>
+
+    <string name="dialogfragment_remove_folder_title">Delete folder</string>
+    <string name="dialogfragment_remove_folder_msg">Are you sure that you want to delete the folder named</string>
+    <string name="dialogfragment_remove_folder_pos_btn">Yes</string>
+    <string name="dialogfragment_remove_folder_neg_btn">Cancel</string>
+    <string name="dialogfragment_remove_folder_msg2">, with all notes contained inside?</string>
+
+    <string name="dialogfragment_about_title">About Eaglenote</string>
+    <string name="dialogfragment_about_msg_developed_by">Developed by Marcus Jacobsson</string>
+    <string name="dialogfragment_about_msg_developed_by_email">marcus.jacobsson@ottomatech.se</string>
+    <string name="dialogfragment_about_msg_thanks">Special thanks to August Ransnäs for valuable thoughts and input.</string>
+
+    <!-- Context Menu -->
+    <string name="context_delete">Delete</string>
+    <string name="context_move">Move</string>
+
+    <!-- Share Note -->
+    <string name="share_subject_first">Eaglenote</string>
+
+    <!-- Preferences -->
+    <string name="preferences_category_list_title">List</string>
+    <string name="preferences_checkbox_list_timestamp_title">Show timestamp</string>
+    <string name="preferences_checkbox_list_timestamp_summary">Show or hide the timestamp</string>
+    <string name="preferences_list_sort_order_title">Sort order</string>
+
+    <string name="preferences_category_general">General</string>
+    <string name="preferences_general_text_size_title">Text size</string>
+    <string name="preferences_general_text_style_title">Text style</string>
+
+    <!-- Widget -->
+    <string name="widget_config_title">Widget setup</string>
+    <string name="widget_config_choose_folder">Choose folder</string>
+    <string name="widget_config_choose_note">Choose note</string>
+    <string name="widget_config_add_widget">Done</string>
+
+    <!-- User feedback -->
+    <string name="user_feedback_no_share_app_found">Couldn\'t find an app to share the note with.</string>
+    <string name="user_feedback_select_note_to_share">Please select a note to share by clicking on it in the list.</string>
+    <string name="user_feedback_select_note">Please select a note.</string>
+    <string name="user_feedback_saved_note">Note saved.</string>
+    <string name="user_feedback_could_not_save_note">Couldn\'t save note.</string>
+    <string name="user_feedback_could_not_add_folder">Couldn\'t add folder.</string>
+    <string name="user_feedback_notes_deleted">Notes deleted.</string>
+    <string name="user_feedback_note_deleted">Note deleted.</string>
+    <string name="user_feedback_notes_moved">Notes moved.</string>
+    <string name="user_feedback_note_moved">Note moved.</string>
+    <string name="user_feedback_can_not_delete_main">The MAIN folder can not be deleted.</string>
+    <string name="user_feedback_folder_deleted">Folder deleted.</string>
+    <string name="user_feedback_could_not_delete_folder">Couldn\'t delete folder.</string>
+    <string name="user_feedback_appwidget_empty_folder">Empty folder</string>
+    <string name="dialogfragment_about_url">https://play.google.com/store/apps/details?id=se.ottomatech.marcusjacobsson.eaglenote.pro</string>
+    <string name="dialogfragment_about_pos_btn">Upgradera till PRO</string>
+
+    <!-- Preferences arrays -->
+    <string name="preferences_text_size_array_small">Small</string>
+    <string name="preferences_text_size_array_medium">Medium</string>
+    <string name="preferences_text_size_array_large">Large</string>
+    <string name="preferences_text_size_array_extra_large">Extra Large</string>
+
+    <string name="preference_sort_order_array_title_asc">By title - Ascending</string>
+    <string name="preference_sort_order_array_title_desc">By title - Descending</string>
+    <string name="preference_sort_order_array_time_asc">By time - Ascending</string>
+    <string name="preference_sort_order_array_time_desc">By time - Descending</string>
+
+</resources>

@@ -1,0 +1,7 @@
+C:\Users\Marcus Jacobsson\Dropbox\Development\qwknoteGIT\app\build\intermediates\classes\free\debug
+C:\Users\Marcus Jacobsson\Dropbox\Development\qwknoteGIT\app\build\intermediates\pre-dexed\free\debug\support-annotations-21.0.3-50c1da07d9a3cedc45f316f25b0e75c1aa62a9dd.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\qwknoteGIT\app\build\intermediates\pre-dexed\free\debug\classes-4b2e7fcfbd5208b449a200156e69a04313ea416d.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\qwknoteGIT\app\build\intermediates\pre-dexed\free\debug\AdBuddiz-2.4.2-4903a3bcfa7c5e7108843169c109d8b3141d7ce9.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\qwknoteGIT\app\build\intermediates\pre-dexed\free\debug\internal_impl-21.0.3-f3bd1068f074902b536f5d3974c6d0f129f2b9aa.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\qwknoteGIT\app\build\intermediates\pre-dexed\free\debug\classes-5f138e96c2b0c9651fce90a04d245a3d0a304b60.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\qwknoteGIT\app\build\intermediates\pre-dexed\free\debug\classes-ba3b54d1dc96839db3297f6179b2cf2a117365cc.jar

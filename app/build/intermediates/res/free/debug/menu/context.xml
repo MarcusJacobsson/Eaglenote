@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:icon="@drawable/ic_action_discard"
+        android:id="@+id/context_delete"
+        app:showAsAction="ifRoom|withText"
+        android:showAsAction="ifRoom|withText"
+        tools:ignore="AppCompatResource"
+        android:title="@string/context_delete" />
+
+    <item
+        android:id="@+id/context_move"
+        android:title="@string/context_move" />
+</menu><!-- From: file:/C:/Users/Marcus%20Jacobsson/Dropbox/Development/Android%20Studio%20Workspace/Eaglenote%20git/app/src/main/res/menu/context.xml -->

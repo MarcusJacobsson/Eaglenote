@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:weightSum="2"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_weight="1"
+            android:background="@color/gray"
+            android:padding="@dimen/activity_vertical_margin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_action_collection"
+                android:id="@+id/ivFolder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageButton
+                android:src="@drawable/ic_action_new_folder"
+                android:layout_centerVertical="true"
+                android:id="@+id/btn_add_folder"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <ImageButton
+                android:src="@drawable/ic_action_discard"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/btn_add_folder"
+                android:layout_toStartOf="@id/btn_add_folder"
+                android:id="@+id/btn_delete_folder"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Spinner
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/btn_delete_folder"
+                android:layout_toStartOf="@id/btn_delete_folder"
+                android:layout_toRightOf="@id/ivFolder"
+                android:layout_toEndOf="@id/ivFolder"
+                android:spinnerMode="dialog"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner_folders" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_weight="1"
+            android:layout_width="4dp"
+            android:layout_height="fill_parent"
+            android:background="#000000" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#000000" />
+
+    <RelativeLayout
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:gravity="center"
+            style="?android:attr/imageButtonStyle"
+            android:id="@+id/btn_add_note"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+
+            <ImageView
+
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:clickable="false"
+                android:background="#0000"
+                android:src="@drawable/ic_action_new" />
+
+            <TextView
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:clickable="false"
+                android:background="#0000"
+                android:text="@string/add" />
+        </LinearLayout>
+
+
+        <ListView
+            android:choiceMode="singleChoice"
+            android:layout_marginRight="@dimen/activity_vertical_margin"
+            android:layout_marginEnd="@dimen/activity_vertical_margin"
+            android:layout_marginStart="@dimen/activity_vertical_margin"
+            android:layout_marginLeft="@dimen/activity_vertical_margin"
+            android:id="@+id/lw_notes"
+            android:layout_above="@id/btn_add_note"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+    </RelativeLayout>
+
+</LinearLayout>

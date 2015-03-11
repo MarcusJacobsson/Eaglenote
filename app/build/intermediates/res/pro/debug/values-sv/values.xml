@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Marcus%20Jacobsson/Dropbox/Development/Android%20Studio%20Workspace/Eaglenote%20git/app/src/main/res/values-sv/arrays.xml -->
+    <eat-comment/>
+    <string-array name="preference_sort_order_array">
+        <item>@string/preference_sort_order_array_title_asc</item>
+        <item>@string/preference_sort_order_array_title_desc</item>
+        <item>@string/preference_sort_order_array_time_asc</item>
+        <item>@string/preference_sort_order_array_time_desc</item>
+    </string-array>
+    <string-array name="preference_sort_order_array_values">
+        <item>titleASC</item>
+        <item>titleDSC</item>
+        <item>timeASC</item>
+        <item>timeDSC</item>
+    </string-array>
+    <string-array name="preference_text_size_array">
+        <item>@string/preferences_text_size_array_small</item>
+        <item>@string/preferences_text_size_array_medium</item>
+        <item>@string/preferences_text_size_array_large</item>
+        <item>@string/preferences_text_size_array_extra_large</item>
+    </string-array>
+    <string-array name="preference_text_size_array_values">
+        <item>10</item>
+        <item>14</item>
+        <item>22</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="preferences_general_text_style_array">
+        <item>Default</item>
+        <item>2Dumb</item>
+        <item>3Dumb</item>
+        <item>20db</item>
+        <item>1942</item>
+        <item>Acknowledgement</item>
+        <item>Action_Man</item>
+        <item>Action_Man_Bold</item>
+        <item>Action_Man_Bold_Italic</item>
+        <item>Action_Man_Extended</item>
+        <item>Action_Man_Extended_Bold</item>
+        <item>Action_Man_Extended_Bold_Italic</item>
+        <item>Action_Man_Extended_Italic</item>
+        <item>Action_Man_Italic</item>
+        <item>Action_Man_Shaded</item>
+        <item>Action_Man_Shaded_Italic</item>
+        <item>After_Shok</item>
+        <item>AguafinaScript-Regular</item>
+        <item>Airstream</item>
+        <item>Aldo_Open</item>
+        <item>AlexBrush-Regular</item>
+        <item>Aller_Bd</item>
+        <item>Aller_BdIt</item>
+        <item>Aller_It</item>
+        <item>Aller_Lt</item>
+        <item>Aller_LtIt</item>
+        <item>Aller_Rg</item>
+        <item>AllerDisplay</item>
+        <item>Allura-Regular</item>
+        <item>Almendra-Bold</item>
+        <item>Almendra-BoldItalic</item>
+        <item>Almendra-Italic</item>
+        <item>Almendra-Regular</item>
+        <item>AlmendraDisplay-Regular</item>
+        <item>AlmendraSC-Bold</item>
+        <item>AlmendraSC-BoldItalic</item>
+        <item>AlmendraSC-Italic</item>
+        <item>AlmendraSC-Regular</item>
+        <item>alpha_echo</item>
+        <item>Amaranth-Bold</item>
+        <item>Amaranth-BoldItalic</item>
+        <item>Amaranth-Italic</item>
+        <item>Amaranth-Regular</item>
+        <item>Anagram</item>
+        <item>Andada-Bold</item>
+        <item>Andada-BoldItalic</item>
+        <item>Andada-Italic</item>
+        <item>Andada-Regular</item>
+        <item>AndadaSC-Bold</item>
+        <item>AndadaSC-BoldItalic</item>
+        <item>AndadaSC-Italic</item>
+        <item>AndadaSC-Regular</item>
+        <item>AndBasR</item>
+        <item>ANUDI___</item>
+        <item>ANUDRG__</item>
+        <item>AquilineTwo</item>
+        <item>Arizonia-Regular</item>
+        <item>armalite_rifle</item>
+        <item>BRUSHSTP</item>
+        <item>CabinSketch-Bold</item>
+        <item>CabinSketch-Regular</item>
+        <item>cac_champagne</item>
+        <item>Capture_it</item>
+        <item>Capture_it_2</item>
+        <item>carbontype</item>
+        <item>Cinzel-Black</item>
+        <item>Cinzel-Bold</item>
+        <item>Cinzel-Regular</item>
+        <item>CinzelDecorative-Black</item>
+        <item>CinzelDecorative-Bold</item>
+        <item>CinzelDecorative-Regular</item>
+        <item>Exotica</item>
+        <item>FingerPaint-Regular</item>
+        <item>FORTSSH_</item>
+        <item>freebooterscript</item>
+        <item>FREEBSCA</item>
+        <item>Kavoon-Regular</item>
+        <item>Kingthings_Foundation</item>
+        <item>Kingthings_Italique</item>
+        <item>KomikaTitle</item>
+        <item>KomikaTitle-Axis</item>
+        <item>KomikaTitle-Kaps</item>
+        <item>KomikaTitle-Paint</item>
+        <item>KomikaTitle-Wide</item>
+        <item>krazynights</item>
+        <item>NewRocker-Regular</item>
+        <item>NosiferCaps-Regular</item>
+        <item>old_stamper</item>
+        <item>SF_Arch_Rival</item>
+        <item>SF_Arch_Rival_Bold</item>
+        <item>SF_Arch_Rival_Bold_Italic</item>
+        <item>SF_Arch_Rival_Extended</item>
+        <item>SF_Arch_Rival_Extended_Bold</item>
+        <item>SF_Arch_Rival_Extended_Bold_Italic</item>
+        <item>SF_Arch_Rival_Extended_Italic</item>
+        <item>SF_Arch_Rival_Italic</item>
+        <item>SF_Burlington_Script</item>
+        <item>SF_Burlington_Script_Bold</item>
+        <item>SF_Burlington_Script_Bold_Italic</item>
+        <item>SF_Burlington_Script_Italic</item>
+    </string-array>
+    <string-array name="preferences_general_text_style_array_values">
+        <item>Default</item>
+        <item>2Dumb.ttf</item>
+        <item>3Dumb.ttf</item>
+        <item>20db.otf</item>
+        <item>1942.ttf</item>
+        <item>Acknowledgement.otf</item>
+        <item>Action_Man.ttf</item>
+        <item>Action_Man_Bold.ttf</item>
+        <item>Action_Man_Bold_Italic.ttf</item>
+        <item>Action_Man_Extended.ttf</item>
+        <item>Action_Man_Extended_Bold.ttf</item>
+        <item>Action_Man_Extended_Bold_Italic.ttf</item>
+        <item>Action_Man_Extended_Italic.ttf</item>
+        <item>Action_Man_Italic.ttf</item>
+        <item>Action_Man_Shaded.ttf</item>
+        <item>Action_Man_Shaded_Italic.ttf</item>
+        <item>After_Shok.ttf</item>
+        <item>AguafinaScript-Regular.ttf</item>
+        <item>Airstream.ttf</item>
+        <item>Aldo_Open.otf</item>
+        <item>AlexBrush-Regular.ttf</item>
+        <item>Aller_Bd.ttf</item>
+        <item>Aller_BdIt.ttf</item>
+        <item>Aller_It.ttf</item>
+        <item>Aller_Lt.ttf</item>
+        <item>Aller_LtIt.ttf</item>
+        <item>Aller_Rg.ttf</item>
+        <item>AllerDisplay.ttf</item>
+        <item>Allura-Regular.otf</item>
+        <item>Almendra-Bold.otf</item>
+        <item>Almendra-BoldItalic.otf</item>
+        <item>Almendra-Italic.otf</item>
+        <item>Almendra-Regular.otf</item>
+        <item>AlmendraDisplay-Regular.otf</item>
+        <item>AlmendraSC-Bold.otf</item>
+        <item>AlmendraSC-BoldItalic.otf</item>
+        <item>AlmendraSC-Italic.otf</item>
+        <item>AlmendraSC-Regular.otf</item>
+        <item>alpha_echo.ttf</item>
+        <item>Amaranth-Bold.otf</item>
+        <item>Amaranth-BoldItalic.otf</item>
+        <item>Amaranth-Italic.otf</item>
+        <item>Amaranth-Regular.otf</item>
+        <item>Anagram.ttf</item>
+        <item>Andada-Bold.otf</item>
+        <item>Andada-BoldItalic.otf</item>
+        <item>Andada-Italic.otf</item>
+        <item>Andada-Regular.otf</item>
+        <item>AndadaSC-Bold.otf</item>
+        <item>AndadaSC-BoldItalic.otf</item>
+        <item>AndadaSC-Italic.otf</item>
+        <item>AndadaSC-Regular.otf</item>
+        <item>AndBasR.ttf</item>
+        <item>ANUDI___.ttf</item>
+        <item>ANUDRG__.ttf</item>
+        <item>AquilineTwo.ttf</item>
+        <item>Arizonia-Regular.ttf</item>
+        <item>armalite_rifle.ttf</item>
+        <item>BRUSHSTP.ttf</item>
+        <item>CabinSketch-Bold.otf</item>
+        <item>CabinSketch-Regular.otf</item>
+        <item>cac_champagne.ttf</item>
+        <item>Capture_it.ttf</item>
+        <item>Capture_it_2.ttf</item>
+        <item>carbontype.ttf</item>
+        <item>Cinzel-Black.otf</item>
+        <item>Cinzel-Bold.otf</item>
+        <item>Cinzel-Regular.otf</item>
+        <item>CinzelDecorative-Black.otf</item>
+        <item>CinzelDecorative-Bold.otf</item>
+        <item>CinzelDecorative-Regular.otf</item>
+        <item>Exotica.ttf</item>
+        <item>FingerPaint-Regular.ttf</item>
+        <item>FORTSSH_.ttf</item>
+        <item>freebooterscript.ttf</item>
+        <item>FREEBSCA.ttf</item>
+        <item>Kavoon-Regular.otf</item>
+        <item>Kingthings_Foundation.ttf</item>
+        <item>Kingthings_Italique.ttf</item>
+        <item>KomikaTitle.ttf</item>
+        <item>KomikaTitle-Axis.ttf</item>
+        <item>KomikaTitle-Kaps.ttf</item>
+        <item>KomikaTitle-Paint.ttf</item>
+        <item>KomikaTitle-Wide.ttf</item>
+        <item>krazynights.ttf</item>
+        <item>NewRocker-Regular.otf</item>
+        <item>NosiferCaps-Regular.ttf</item>
+        <item>old_stamper.ttf</item>
+        <item>SF_Arch_Rival.ttf</item>
+        <item>SF_Arch_Rival_Bold.ttf</item>
+        <item>SF_Arch_Rival_Bold_Italic.ttf</item>
+        <item>SF_Arch_Rival_Extended.ttf</item>
+        <item>SF_Arch_Rival_Extended_Bold.ttf</item>
+        <item>SF_Arch_Rival_Extended_Bold_Italic.ttf</item>
+        <item>SF_Arch_Rival_Extended_Italic.ttf</item>
+        <item>SF_Arch_Rival_Italic.ttf</item>
+        <item>SF_Burlington_Script.ttf</item>
+        <item>SF_Burlington_Script_Bold.ttf</item>
+        <item>SF_Burlington_Script_Bold_Italic.ttf</item>
+        <item>SF_Burlington_Script_Italic.ttf</item>
+
+    </string-array>
+    <!-- From: file:/C:/Users/Marcus%20Jacobsson/Dropbox/Development/Android%20Studio%20Workspace/Eaglenote%20git/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sv/values.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Visa startsidan"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Klart"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
+    <!-- From: file:/C:/Users/Marcus%20Jacobsson/Dropbox/Development/Android%20Studio%20Workspace/Eaglenote%20git/app/src/main/res/values-sv/strings.xml -->
+    <eat-comment/>
+    <string name="action_about">Om</string>
+    <string name="action_mode_title_note">vald</string>
+    <string name="action_mode_title_notes">valda</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="add">Lägg till</string>
+    <string name="context_delete">Ta bort</string>
+    <string name="context_move">Flytta</string>
+    <string name="dialogfragment_about_msg_developed_by">Utvecklad av Marcus Jacobsson</string>
+    <string name="dialogfragment_about_msg_developed_by_email">marcus.jacobsson@ottomatech.se</string>
+    <string name="dialogfragment_about_msg_thanks">Tack till August Ransnäs för hjälpsam input</string>
+    <string name="dialogfragment_about_pos_btn">Upgradera till PRO</string>
+    <string name="dialogfragment_about_title">Om Eaglenote</string>
+    <string name="dialogfragment_about_url">https://play.google.com/store/apps/details?id=se.ottomatech.marcusjacobsson.eaglenote.pro</string>
+    <string name="dialogfragment_add_folder">Namn</string>
+    <string name="dialogfragment_add_folder_fail">Kunde ej lägga till mapp</string>
+    <string name="dialogfragment_add_folder_feedback">Vänligen ange namn</string>
+    <string name="dialogfragment_add_folder_neg_btn">Avbryt</string>
+    <string name="dialogfragment_add_folder_pos_btn">OK</string>
+    <string name="dialogfragment_add_folder_success">Mapp tillagd</string>
+    <string name="dialogfragment_add_folder_title">Lägg till mapp</string>
+    <string name="dialogfragment_app_widget_config_title">Välj mapp att visa</string>
+    <string name="dialogfragment_license_failed_msg">Licensen kunde ej valideras.\nFör att hämta en giltlig licens, vänlig ladda ner appen från Google Play.\n\nTror du att detta meddelande skickades felaktigt? Kontakta utvecklaren på mailaddress marcus.jacobsson@ottomatech.se</string>
+    <string name="dialogfragment_license_failed_neg_btn">Avsluta</string>
+    <string name="dialogfragment_license_failed_pos_btn">Ja</string>
+    <string name="dialogfragment_license_failed_title">Licenskontroll misslyckades</string>
+    <string name="dialogfragment_license_retry_msg">Licenskontrollen misslyckades.</string>
+    <string name="dialogfragment_license_retry_neg_btn">Avsluta</string>
+    <string name="dialogfragment_license_retry_pos_btn">Försök igen</string>
+    <string name="dialogfragment_license_retry_title">Licenskontroll misslyckades</string>
+    <string name="dialogfragment_move_note">Flytta anteckning till mapp</string>
+    <string name="dialogfragment_move_note_neg_btn">Avbryt</string>
+    <string name="dialogfragment_move_note_pos_btn">OK</string>
+    <string name="dialogfragment_remove_folder_msg">Är du säker på att du vill ta bort mapp</string>
+    <string name="dialogfragment_remove_folder_msg2">, med alla anteckningar?</string>
+    <string name="dialogfragment_remove_folder_neg_btn">Avbryt</string>
+    <string name="dialogfragment_remove_folder_pos_btn">Ja</string>
+    <string name="dialogfragment_remove_folder_title">Ta bort mapp</string>
+    <string name="dialogfragment_remove_note">Ta bort anteckning</string>
+    <string name="dialogfragment_remove_note_msg">Är du säker på att du vill ta bort denna anteckning?</string>
+    <string name="dialogfragment_remove_note_neg_btn">Avbryt</string>
+    <string name="dialogfragment_remove_note_pos_btn">Ja</string>
+    <string name="dialogfragment_remove_notes">Ta bort anteckningar</string>
+    <string name="dialogfragment_remove_notes_msg">Är du säker på att du vill ta bort dessa</string>
+    <string name="dialogfragment_remove_notes_msg2">anteckningar?</string>
+    <string name="menu_add_folder">Lägg till mapp</string>
+    <string name="menu_share">Dela anteckning</string>
+    <string name="preference_sort_order_array_time_asc">Tid - Stigande</string>
+    <string name="preference_sort_order_array_time_desc">Tid - Fallande</string>
+    <string name="preference_sort_order_array_title_asc">Titel - Stigande</string>
+    <string name="preference_sort_order_array_title_desc">Titel - Fallande</string>
+    <string name="preferences_category_general">Övrigt</string>
+    <string name="preferences_category_list_title">Lista</string>
+    <string name="preferences_checkbox_list_timestamp_summary">Dölj eller visa tidsstämpel</string>
+    <string name="preferences_checkbox_list_timestamp_title">Visa tidsstämpel</string>
+    <string name="preferences_general_text_size_title">Textstorlek</string>
+    <string name="preferences_general_text_style_title">Textstil</string>
+    <string name="preferences_list_sort_order_title">Sorteringsordning</string>
+    <string name="preferences_text_size_array_extra_large">Extra stor</string>
+    <string name="preferences_text_size_array_large">Stor</string>
+    <string name="preferences_text_size_array_medium">Medium</string>
+    <string name="preferences_text_size_array_small">Liten</string>
+    <string name="progress_bar_license_msg">Kontrollerar…</string>
+    <string name="progress_bar_license_title">Kontrollerar licens</string>
+    <string name="save">Spara</string>
+    <string name="share_chooser_title">Dela anteckning med</string>
+    <string name="share_subject_first">Eaglenote</string>
+    <string name="user_feedback_appwidget_empty_folder">Tom mapp</string>
+    <string name="user_feedback_can_not_delete_main">MAIN mappen kan inte tas bort</string>
+    <string name="user_feedback_could_not_add_folder">Kunde inte lägga till mapp</string>
+    <string name="user_feedback_could_not_delete_folder">Kunde inte ta bort mapp</string>
+    <string name="user_feedback_could_not_save_note">Kunde inte spara anteckning</string>
+    <string name="user_feedback_folder_deleted">Mapp borttagen</string>
+    <string name="user_feedback_no_share_app_found">Kunde inte hitta en app att dela anteckningen med</string>
+    <string name="user_feedback_note_deleted">Anteckning borttagen</string>
+    <string name="user_feedback_note_moved">Anteckning flyttad</string>
+    <string name="user_feedback_notes_deleted">Anteckningar borttagna</string>
+    <string name="user_feedback_notes_moved">Anteckningar flyttade</string>
+    <string name="user_feedback_saved_note">Anteckning sparad</string>
+    <string name="user_feedback_select_note">Vänlig välj antecking</string>
+    <string name="user_feedback_select_note_to_share">Vänlig välj antecking genom att klicka på den i listan</string>
+    <string name="widget_config_add_widget">Klar</string>
+    <string name="widget_config_choose_folder">Välj mapp</string>
+    <string name="widget_config_choose_note">Välj anteckning</string>
+    <string name="widget_config_title">Widgetinställningar</string>
+</resources>
