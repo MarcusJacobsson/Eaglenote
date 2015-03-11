@@ -1,0 +1,7 @@
+C:\Users\Marcus Jacobsson\Dropbox\Development\Android Studio Workspace\Eaglenote git\app\build\intermediates\classes\pro\debug
+C:\Users\Marcus Jacobsson\Dropbox\Development\Android Studio Workspace\Eaglenote git\app\build\intermediates\pre-dexed\pro\debug\support-annotations-21.0.3-50c1da07d9a3cedc45f316f25b0e75c1aa62a9dd.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\Android Studio Workspace\Eaglenote git\app\build\intermediates\pre-dexed\pro\debug\classes-2d9a7db43d319c6f3f329f0e36ebad5e492149ec.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\Android Studio Workspace\Eaglenote git\app\build\intermediates\pre-dexed\pro\debug\AdBuddiz-2.4.2-7e158a97629aaea5195977433d3b833dae7d7d75.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\Android Studio Workspace\Eaglenote git\app\build\intermediates\pre-dexed\pro\debug\internal_impl-21.0.3-84ac05f4bb334165179ead2f936f567bcf09f2b5.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\Android Studio Workspace\Eaglenote git\app\build\intermediates\pre-dexed\pro\debug\classes-69bb364e38d3b10c4f39fc1011c46006c256a290.jar
+C:\Users\Marcus Jacobsson\Dropbox\Development\Android Studio Workspace\Eaglenote git\app\build\intermediates\pre-dexed\pro\debug\classes-e10f60bcd667b903e3c7021af19dc930120edd12.jar
